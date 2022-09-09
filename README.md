@@ -1,6 +1,6 @@
 ### Hi there 👋 I am cgoma
 
-- 🔭 I’m currently trying to simplify computer education for kids
+- 🔭 I’m currently trying to simplify computer education for teenagers
 - 🌱 I’m currently learning Python, C++ and C
 - 🎈🎈🎈 Proud father of daughter who loves 🎈
 
